@@ -18,4 +18,4 @@ The directory structure of the repository is as follows:
 
 ## Credits
 
-This repository was created by Sayf Dhu al-Faqar. Contributions are welcome and appreciated.
+This repository was created by [Sayf Dhu al-Faqar](https://github.com/sdhlfqr). Contributions are welcome and appreciated.
