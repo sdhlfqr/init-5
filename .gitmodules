@@ -1,0 +1,3 @@
+[submodule "nixos"]
+	path = nixos
+	url = git@github.com:sdhlfqr/init-5-nixos.git
