@@ -1,6 +1,6 @@
 # init-5: NixOS Configuration and Home-Manager Automation Tools
 
-NixOS configuration and home-manager setup for managing multiple hosts and users, using flakes. It provides a comprehensive automation tool, including documentation, automation scripts, a Docker image for creating custom installation images, and Ansible for managing hosts remotely.
+NixOS configuration and home-manager setup for managing multiple hosts and users, using flakes. It provides comprehensive automation tools, including documentation, automation scripts, a Docker image for creating custom installation images, and Ansible for managing hosts remotely.
 
 ## Directory Structure
 
