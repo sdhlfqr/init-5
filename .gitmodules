@@ -7,3 +7,6 @@
 [submodule "docker/create-install-image"]
 	path = docker/create-install-image
 	url = git@github.com:sdhlfqr/init-5-docker-create-install-image.git
+[submodule "docker/ansible"]
+	path = docker/ansible
+	url = git@github.com:sdhlfqr/init-5-docker-ansible.git
