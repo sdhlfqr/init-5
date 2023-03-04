@@ -1,3 +1,6 @@
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:sdhlfqr/init-5-ansible.git
 [submodule "docker/ansible"]
 	path = docker/ansible
 	url = git@github.com:sdhlfqr/init-5-docker-ansible.git
@@ -10,6 +13,3 @@
 [submodule "nixos"]
 	path = nixos
 	url = git@github.com:sdhlfqr/init-5-nixos.git
-[submodule "ansible"]
-	path = ansible
-	url = git@github.com:sdhlfqr/init-5-ansible.git
