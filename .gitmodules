@@ -1,9 +1,9 @@
 [submodule "ansible"]
 	path = ansible
 	url = git@github.com:sdhlfqr/init-5-ansible.git
-[submodule "docker/ansible"]
-	path = docker/ansible
-	url = git@github.com:sdhlfqr/init-5-docker-ansible.git
+[submodule "docker/ansible-runner"]
+	path = docker/ansible-runner
+	url = git@github.com:sdhlfqr/init-5-docker-ansible-runner.git
 [submodule "docker/create-install-image"]
 	path = docker/create-install-image
 	url = git@github.com:sdhlfqr/init-5-docker-create-install-image.git
