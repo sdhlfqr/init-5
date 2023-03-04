@@ -12,7 +12,9 @@ The directory structure of the repository is as follows:
 ## Usage
 
 1. Clone the repository.
-
+```bash
+git clone --recurse-submodules https://github.com/sdhlfqr/init-5.git
+```
 **Work in progress**: This section is a work in progress and will be updated soon with more detailed information on how to use this repository and its contents.
 
 
