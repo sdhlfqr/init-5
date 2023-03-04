@@ -2,16 +2,9 @@
 
 NixOS configuration and home-manager setup for managing multiple hosts and users, using flakes. It provides comprehensive automation tools, including documentation, automation scripts, a Docker image for creating custom installation images, and Ansible for managing hosts remotely.
 
-## Directory Structure
+## Documentation
 
-The directory structure of the repository is as follows:
-- `ansible/`: Ansible playbooks for managing hosts remotely.
-- `docker/`: Contains two Docker images:
-  - `ansible-runner`: A Docker image for running Ansible in a self-contained environment.
-  - `create-install-image`: A Docker image for creating custom installation images.
-- `docs`: Documentation and guidance for technical problems.
-- `nixos/`: A flake for NixOS configuration and home-manager setup. It includes the configuration for all host types and users' homes.
-- `scripts/`: Automation scripts for building and installing the configuration on a machine.
+- [System Overview and Terminology](/docs/system-terminology.md)
 
 ## Usage
 
