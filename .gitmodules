@@ -1,12 +1,15 @@
-[submodule "nixos"]
-	path = nixos
-	url = git@github.com:sdhlfqr/init-5-nixos.git
-[submodule "scripts"]
-	path = scripts
-	url = git@github.com:sdhlfqr/init-5-scripts.git
-[submodule "docker/create-install-image"]
-	path = docker/create-install-image
-	url = git@github.com:sdhlfqr/init-5-docker-create-install-image.git
 [submodule "docker/ansible"]
 	path = docker/ansible
 	url = git@github.com:sdhlfqr/init-5-docker-ansible.git
+[submodule "docker/create-install-image"]
+	path = docker/create-install-image
+	url = git@github.com:sdhlfqr/init-5-docker-create-install-image.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:sdhlfqr/init-5-scripts.git
+[submodule "nixos"]
+	path = nixos
+	url = git@github.com:sdhlfqr/init-5-nixos.git
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:sdhlfqr/init-5-ansible.git
