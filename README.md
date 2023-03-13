@@ -8,10 +8,12 @@ NixOS configuration and home-manager setup for managing multiple hosts and users
 
 ## Usage
 
-1. Clone the repository.
+1. Create a bootable USB disk with the install image. (See [Bootable USB Disk](./docs/bootable-usb.md).)
+2. Clone the repository.
 ```bash
 git clone --recurse-submodules https://github.com/sdhlfqr/init-5.git
 ```
+
 **Work in progress**: This section is a work in progress and will be updated soon with more detailed information on how to use this repository and its contents.
 
 
