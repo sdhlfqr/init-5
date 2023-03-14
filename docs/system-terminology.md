@@ -28,8 +28,8 @@ init-5/
 ### Terminology
 
 - `Profiles`: Refers to the different types of machines (e.g. web server, database server, etc.) that are defined in the NixOS configuration flake.
-`Hosts`: Refers to the individual machines that are managed with Ansible playbooks.
-`Users`: Refers to the individual user accounts that are defined in the NixOS configuration flake as submodules and managed with home-manager. Submoduling allows for easier sharing of home configurations between different profiles.
+- `Hosts`: Refers to the individual machines that are managed with Ansible playbooks.
+- `Users`: Refers to the individual user accounts that are defined in the NixOS configuration flake as submodules and managed with home-manager. Submoduling allows for easier sharing of home configurations between different profiles.
 
 ## Users and Profiles
 
